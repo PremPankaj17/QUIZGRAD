@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following meaningful word can be formed using the letters of the word RELATIONSHIP, a letter can be used only once?",
+      "options": [
+        "Reinstate",
+        "Alter",
+        "Shipment",
+        "None of the above"
+      ],
+      "answer": "Alter"
+    },
+    {
+      "id": 2,
+      "question": "In a row Mihir is 17th from the left and 19th from the right, then what is the total number of candidates in that row?",
+      "options": [
+        "35",
+        "36",
+        "29",
+        "11"
+      ],
+      "answer": "35"
+    },
+    {
+      "id": 3,
+      "question": "What will be the angle between hour hand and minute hand, if clock shows 8 : 30 PM ? ",
+      "options": [
+        "90°",
+        "75°",
+        "60°",
+        "50°"
+      ],
+      "answer": "75°"
+    },
+    {
+      "id": 4,
+      "question": "Three of the following four words are alike in a certain way and one is different. Select the odd one.",
+      "options": [
+        "Goggles",
+        "Spectacles",
+        "Bifocals",
+        "Optical Reader"
+      ],
+      "answer": "Optical Reader"
+    },
+    {
+      "id": 5,
+      "question": "Select the option that is related to the third number in the same way as the second number is related to the first number. 31 : 90 :: 43 : ?",
+      "options": [
+        "130",
+        "125",
+        "102",
+        "75"
+      ],
+      "answer": "102"
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a conjunction ?",
+      "options": [
+        "With",
+        "Because",
+        "Therefore",
+        "None of the above"
+      ],
+      "answer": "Because"
+    },
+    {
+      "id": 7,
+      "question": "Some aliens observe that roosters call before sunrise every day. Having no other information about roosters and sunrises, which of the following inferences would NOT be valid?",
+      "options": [
+        "Rooster-call and sunrise may be independent cyclic events with the same periodicity",
+        "Both may be triggered by a common cause",
+        "Rooster-call may be causing the sunrise",
+        "Sunrise cannot be the cause of rooster call as the rooster-call precedes sunrise"
+      ],
+      "answer": "Sunrise cannot be the cause of rooster call as the rooster-call precedes sunrise"
+    },
+    {
+      "id": 8,
+      "question": "Yamina threw a die 10 times and got the following results: 5, 3, 6, 6, 1, 4, 5, 3, 3, 2. Which of the following numbers she got the maximum number of times? ",
+      "options": [
+        "1",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "3"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following statements is incorrect as a rule of grammar?",
+      "options": [
+        "'Shall' with the subject in the second and third person introduces the idea of compulsion",
+        "'Will' with the subject in the first person expresses bleak sense of determination.",
+        "'Should' with the second and third persons means 'ought to'.",
+        "None of the above"
+      ],
+      "answer": "'Will' with the subject in the first person expresses bleak sense of determination"
+    },
+    {
+      "id": 10,
+      "question": "If the bread is toasted and mayonnaise is spread on it then either I will go hungry or I will have acidity. I am hungry so the bread was toasted.",
+      "options": [
+        "True",
+        "False",
+        "Maybe",
+        "Irrelevant"
+      ],
+      "answer": "Maybe"
+    },
+    {
+      "id": 11,
+      "question": " Which of the following is a prime number?",
+      "options": [
+        "517",
+        "558",
+        "571",
+        "555"
+      ],
+      "answer": "571"
+    },
+    {
+      "id": 12,
+      "question": "Find the sum of first 90 even natural numbers.",
+      "options": [
+        "8180",
+        "8190",
+        "8100",
+        "8110"
+      ],
+      "answer": "8190"
+    },
+    {
+      "id": 13,
+      "question": "Find the sum two numbers, whose product is 200 and difference is minimum.",
+      "options": [
+        "30",
+        "27",
+        "35",
+        "33"
+      ],
+      "answer": "30"
+    },
+    {
+      "id": 14,
+      "question": "A number when divided by 91 leaves a remainder 65. If the same number is divided by 13, find the remainder.",
+      "options": [
+        "7",
+        "0",
+        "5",
+        "12"
+      ],
+      "answer": "0"
+    },
+    {
+      "id": 15,
+      "question": "How many distinct prime factors are there in 9900?",
+      "options": [
+        "7",
+        "4",
+        "27",
+        "54"
+      ],
+      "answer": "4"
+    },
+    {
+      "id": 16,
+      "question": "The company’s profits were low and they were forced to __________ staff.",
+      "options": [
+        "lisp off ",
+        "lay off",
+        "lay on",
+        "lie on"
+      ],
+      "answer": "lay off"
+    },
+    {
+      "id": 17,
+      "question": "A group of fish is called a:",
+      "options": [
+        "school",
+        "army",
+        "standard",
+        "bus"
+      ],
+      "answer": "school"
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is the assumption for the claim that 'Pleasure is desirable'?",
+      "options": [
+        "Everyone desires pleasure.",
+        "Some persons desire pleasure.",
+        "Everyone desires something.",
+        "Pleasure is essential."
+      ],
+      "answer": "Everyone desires pleasure."
+    },
+    {
+      "id": 19,
+      "question": "It is a common criticism that most of the academicians live in their ____, so they are not aware of the real life challenges.",
+      "options": [
+        "homes",
+        "ivory towers",
+        "glass palaces",
+        "big flats"
+      ],
+      "answer": "ivory towers"
+    },
+    {
+      "id": 20,
+      "question": "He is known for his unscrupulous ways. He always sheds ____ tears to deceive people.",
+      "options": [
+        "fox's",
+        "Lion",
+        "crocodile",
+        "fox"
+      ],
+      "answer": "crocodile"
+    }
+    
+  ]
